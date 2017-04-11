@@ -34,27 +34,26 @@ Optional: Find the reading material that helps you learn further from the links 
 + Wikipedia information on [Binary Tree](https://en.wikipedia.org/wiki/Binary_tree)
 
 ## Optional offline Problem Sets
-+ In "Cracking the Coding Interview" book, "Chapter 4: Trees and Graphs"
-+ CareerCup [Trees and Graph Interview Questions](https://www.careercup.com/page?pid=trees-and-graphs-interview-questions) - scan and look for the tree interview questions.
-+ Kal academy's problems on [Trees](https://drive.google.com/open?id=0BxHords9odw3b2d1ZTJtVkZZTkk)
-+ Print all values in a Binary Search Tree using Post-order traversal using an iterative solution. Assume you are provided a Stack data structure that can contain the tree Node pointer or reference.
++ Print all values in a Binary Search Tree using In-order, Pre-order, Post-order traversal using an iterative solution. Assume you are provided a Stack/Queue data structure that can contain the tree Node pointer or reference.
 + Print all values in a BST in breadth first traversal order
 + Convert a given integer array e.g. {5,2,1,6,7,3,4} to a Binary Search Tree. Challenge: Ensure that the tree is balanced.
 + Find the height of a BST using an iterative solution.
 + Given 2 Binary Trees (not BST), return true if both trees have the same in-order else return false. Note: You can save in-order from both trees and compare in the end (try implementing this as well). Can you inorder traverse them parallely and stop the traversal on a mismatch to return false instead?
++ In "Cracking the Coding Interview" book, "Chapter 4: Trees and Graphs"
++ CareerCup [Trees and Graph Interview Questions](https://www.careercup.com/page?pid=trees-and-graphs-interview-questions) - scan and look for the tree interview questions.
++ Kal academy's problems on [Trees](https://drive.google.com/open?id=0BxHords9odw3b2d1ZTJtVkZZTkk)
 
 ## In Class
 Here's the problems we'll cover in class. Design and implement code for functions to do the following:
 + 1. Delete a given value from a Binary Search Tree using recursive solution.
-+ 2. Print all values in a Binary Tree using Pre-order and In-order traversals.
-+ 3. Print all values in a Binary Tree using Pre-order, Post-order and In-order traversals. Implement each solution recursively.
-+ 4. Find the height of Binary Tree. Implement the recursive solution.
-+ 5. Insert a given value in a Binary Search Tree. Implement both iterative and recursive solutions.
-+ 6. Find a given value in a Binary Search Tree. Implement both iterative and recursive solutions. </br>
++ 2. Print all values in a Binary Tree using Pre-order, Post-order and In-order traversals. Implement each solution recursively.
++ 3. Find the height of Binary Tree. Implement the recursive solution.
++ 4. Insert a given value in a Binary Search Tree. Implement recursive solution.
++ 5. Find a given value in a Binary Search Tree. Implement recursive solution. </br>
 
 <b>Note</b>: Assume each Node in the tree has integer data and links to the left Node and the right Node. </br>
 
-##Slide Deck
+## Slide Deck
 + Slide Deck used in class</br>
 <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title"><a href="https://www.slideshare.net/secret/1BRYeQtfdLjeus">Binary Search Trees</a></span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.</br>
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /> Please use the Download button and play the slide deck locally. Without this, the animations which are necessary in understanding the solutions will not render properly.
